@@ -1,0 +1,19 @@
+
+# Archivos especificos de Windows
+
+Thumbs.db
+ehtuhumbs.db
+
+# Archivos de Visual Studio
+.vs/
+.vs2019/
+.vs2017/
+vs2015/
+
+# Archivos de Visual Studio Code
+.vscode/
+
+# Archivos de Node.js
+node_modules/
+npm-debug.log
+yarn-error.log
